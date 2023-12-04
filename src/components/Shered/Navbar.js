@@ -47,6 +47,7 @@ const navItems = [
 function Navbar() {
   return (
     <>
+   
       <Header />
       <AppBar position="static" className="bg-black">
         <Container maxWidth="xl">
